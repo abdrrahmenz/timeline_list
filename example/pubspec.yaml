@@ -2,7 +2,7 @@ name: example
 description: Flutter Timeline package demo app
 
 version: 1.0.0+1
-
+publish_to: none
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
